@@ -1,0 +1,29 @@
+{
+  "name": "alexa-personal-server",
+  "version": "0.0.1",
+  "description": "A personal Alexa skills server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladvien/alexa-personal-server.git"
+  },
+  "keywords": [
+    "Alexa",
+    "server",
+    "NodeJS"
+  ],
+  "author": "C. Thomas Brittain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ladvien/alexa-personal-server/issues"
+  },
+  "homepage": "https://github.com/Ladvien/alexa-personal-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "express": "^3.21.2"
+  }
+}
